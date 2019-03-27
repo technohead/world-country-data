@@ -67,7 +67,7 @@ final class WorldBuilder {
 		loadCurrencies();
 		loadCountryFlagMap();
 		addFlagWithOtherCountryAttributes();
-		Toast.makeText(context, R.string.initialized, Toast.LENGTH_SHORT).show();
+		//Toast.makeText(context, R.string.initialized, Toast.LENGTH_SHORT).show();
 	}
 
 	/**
